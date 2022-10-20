@@ -1,0 +1,5 @@
+Name: Chinyere Uhoegbu
+Status: Married
+Track: Software Engineering
+Cohort: Frontend Development
+Job: Business Analyst
